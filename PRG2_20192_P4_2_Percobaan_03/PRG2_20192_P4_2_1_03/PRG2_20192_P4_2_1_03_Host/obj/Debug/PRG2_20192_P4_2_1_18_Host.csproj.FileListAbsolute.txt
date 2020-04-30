@@ -1,0 +1,12 @@
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\bin\Debug\PRG2_20192_P4_2_1_18_Host.exe.config
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\bin\Debug\PRG2_20192_P4_2_1_18_Host.exe
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\bin\Debug\PRG2_20192_P4_2_1_18_Host.pdb
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\bin\Debug\PRG2_20192_P4_2_1_18.dll
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\bin\Debug\PRG2_20192_P4_2_1_18.pdb
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.Form1.resources
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.Properties.Resources.resources
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.csproj.GenerateResource.cache
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.csproj.CopyComplete
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.exe
+C:\Users\IVAN\source\repos\PRG2_20192_P4_2_1_18\PRG2_20192_P4_2_1_18_Host\obj\Debug\PRG2_20192_P4_2_1_18_Host.pdb

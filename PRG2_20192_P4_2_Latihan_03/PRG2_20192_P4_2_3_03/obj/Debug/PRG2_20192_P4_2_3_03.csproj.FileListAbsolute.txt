@@ -1,0 +1,11 @@
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\bin\Debug\PRG2_20192_P4_2_3_03.exe.config
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\bin\Debug\PRG2_20192_P4_2_3_03.exe
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\bin\Debug\PRG2_20192_P4_2_3_03.pdb
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.Properties.Resources.resources
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.csproj.GenerateResource.cache
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.exe
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.pdb
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.frm1.resources
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.txtNumeric.resources
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.txtLetter.resources
+C:\Users\ALFADLI\source\repos\PRG2_20192_P4_2_3_03\obj\Debug\PRG2_20192_P4_2_3_03.csprojAssemblyReference.cache
